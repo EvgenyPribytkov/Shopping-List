@@ -1,0 +1,42 @@
+C:\Source\repos\ITHS\Shopping List\Shopping List\obj\Debug\net6.0-windows\Shopping List.csproj.AssemblyReference.cache
+C:\Source\repos\ITHS\Shopping List\Shopping List\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Source\repos\ITHS\Shopping List\Shopping List\obj\Debug\net6.0-windows\App.g.cs
+C:\Source\repos\ITHS\Shopping List\Shopping List\obj\Debug\net6.0-windows\Shopping List_MarkupCompile.cache
+C:\Source\repos\ITHS\Shopping List\Shopping List\obj\Debug\net6.0-windows\Shopping List_MarkupCompile.lref
+C:\Source\repos\ITHS\Shopping List\Shopping List\bin\Debug\net6.0-windows\Shopping List.exe
+C:\Source\repos\ITHS\Shopping List\Shopping List\bin\Debug\net6.0-windows\Shopping List.deps.json
+C:\Source\repos\ITHS\Shopping List\Shopping List\bin\Debug\net6.0-windows\Shopping List.runtimeconfig.json
+C:\Source\repos\ITHS\Shopping List\Shopping List\bin\Debug\net6.0-windows\Shopping List.dll
+C:\Source\repos\ITHS\Shopping List\Shopping List\bin\Debug\net6.0-windows\Shopping List.pdb
+C:\Source\repos\ITHS\Shopping List\Shopping List\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Source\repos\ITHS\Shopping List\Shopping List\obj\Debug\net6.0-windows\Shopping List.g.resources
+C:\Source\repos\ITHS\Shopping List\Shopping List\obj\Debug\net6.0-windows\Shopping List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\repos\ITHS\Shopping List\Shopping List\obj\Debug\net6.0-windows\Shopping List.AssemblyInfoInputs.cache
+C:\Source\repos\ITHS\Shopping List\Shopping List\obj\Debug\net6.0-windows\Shopping List.AssemblyInfo.cs
+C:\Source\repos\ITHS\Shopping List\Shopping List\obj\Debug\net6.0-windows\Shopping List.csproj.CoreCompileInputs.cache
+C:\Source\repos\ITHS\Shopping List\Shopping List\obj\Debug\net6.0-windows\Shopping List.dll
+C:\Source\repos\ITHS\Shopping List\Shopping List\obj\Debug\net6.0-windows\ref\Shopping List.dll
+C:\Source\repos\ITHS\Shopping List\Shopping List\obj\Debug\net6.0-windows\Shopping List.pdb
+C:\Source\repos\ITHS\Shopping List\Shopping List\obj\Debug\net6.0-windows\Shopping List.genruntimeconfig.cache
+C:\Source\repos\ITHS\Shopping List\Shopping List\obj\Debug\net6.0-windows\refint\Shopping List.dll
+C:\Source\repos\ITHS - Programming with C#\WPF\Shopping List\Shopping List\bin\Debug\net6.0-windows\Shopping List.exe
+C:\Source\repos\ITHS - Programming with C#\WPF\Shopping List\Shopping List\bin\Debug\net6.0-windows\Shopping List.deps.json
+C:\Source\repos\ITHS - Programming with C#\WPF\Shopping List\Shopping List\bin\Debug\net6.0-windows\Shopping List.runtimeconfig.json
+C:\Source\repos\ITHS - Programming with C#\WPF\Shopping List\Shopping List\bin\Debug\net6.0-windows\Shopping List.dll
+C:\Source\repos\ITHS - Programming with C#\WPF\Shopping List\Shopping List\bin\Debug\net6.0-windows\Shopping List.pdb
+C:\Source\repos\ITHS - Programming with C#\WPF\Shopping List\Shopping List\obj\Debug\net6.0-windows\Shopping List.csproj.AssemblyReference.cache
+C:\Source\repos\ITHS - Programming with C#\WPF\Shopping List\Shopping List\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Source\repos\ITHS - Programming with C#\WPF\Shopping List\Shopping List\obj\Debug\net6.0-windows\App.g.cs
+C:\Source\repos\ITHS - Programming with C#\WPF\Shopping List\Shopping List\obj\Debug\net6.0-windows\Shopping List_MarkupCompile.cache
+C:\Source\repos\ITHS - Programming with C#\WPF\Shopping List\Shopping List\obj\Debug\net6.0-windows\Shopping List_MarkupCompile.lref
+C:\Source\repos\ITHS - Programming with C#\WPF\Shopping List\Shopping List\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Source\repos\ITHS - Programming with C#\WPF\Shopping List\Shopping List\obj\Debug\net6.0-windows\Shopping List.g.resources
+C:\Source\repos\ITHS - Programming with C#\WPF\Shopping List\Shopping List\obj\Debug\net6.0-windows\Shopping List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\repos\ITHS - Programming with C#\WPF\Shopping List\Shopping List\obj\Debug\net6.0-windows\Shopping List.AssemblyInfoInputs.cache
+C:\Source\repos\ITHS - Programming with C#\WPF\Shopping List\Shopping List\obj\Debug\net6.0-windows\Shopping List.AssemblyInfo.cs
+C:\Source\repos\ITHS - Programming with C#\WPF\Shopping List\Shopping List\obj\Debug\net6.0-windows\Shopping List.csproj.CoreCompileInputs.cache
+C:\Source\repos\ITHS - Programming with C#\WPF\Shopping List\Shopping List\obj\Debug\net6.0-windows\Shopping List.dll
+C:\Source\repos\ITHS - Programming with C#\WPF\Shopping List\Shopping List\obj\Debug\net6.0-windows\refint\Shopping List.dll
+C:\Source\repos\ITHS - Programming with C#\WPF\Shopping List\Shopping List\obj\Debug\net6.0-windows\Shopping List.pdb
+C:\Source\repos\ITHS - Programming with C#\WPF\Shopping List\Shopping List\obj\Debug\net6.0-windows\Shopping List.genruntimeconfig.cache
+C:\Source\repos\ITHS - Programming with C#\WPF\Shopping List\Shopping List\obj\Debug\net6.0-windows\ref\Shopping List.dll
